@@ -8,7 +8,7 @@ A dedicated frontend developer with 4 years of experience
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [mintpw.dev](http://mintpw.dev)
-* ✉️  You can contact me at [preeyapron.wbd@gmail.com](mailto:preeyapron.wbd@gmail.com)
+* ✉️  You can contact me at [preeyapron.wbs@gmail.com](mailto:preeyapron.wbd@gmail.com)
 * ⚡  Fun fact: I'm secretly guitarist (I guess)
 
 ### Skills
