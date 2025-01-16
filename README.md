@@ -4,9 +4,9 @@ Hi 👋 My name is Mint (Preeyapron Wongbudsri)
 Frontend Developer
 ------------------
 
-A dedicated frontend developer with 4 years of experience
+A dedicated frontend developer with 5 years of experience
 
-* 🌍  I'm based in Bangkok
+* 🌍  I'm based in Varna
 * 🖥️  See my portfolio at [mintpw.dev](http://mintpw.dev)
 * ✉️  You can contact me at [preeyapron.wbs@gmail.com](mailto:preeyapron.wbd@gmail.com)
 * ⚡  Fun fact: I'm secretly guitarist (I guess)
